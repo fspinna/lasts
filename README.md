@@ -45,7 +45,6 @@
    (lasts) user@hostname:~$
    ```
 
-Sure! Let's simplify and streamline the provided code into a quick start guide. 
 
 ### Quick Start Guide for `lasts`
 
